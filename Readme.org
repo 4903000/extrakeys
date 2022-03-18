@@ -1,0 +1,10 @@
+* Extra key shortcuts for krita
+  Go to /Tools > Scripts > Import Python Plugin from Web/ and paste in the git repository
+  URL.
+
+  Or clone the repository locally and install it with GNU stow.
+
+  So far this plugin adds the following key shortcuts:
+  - Increase and decrease painting flow
+
+  So not much. I'll add to this if I ever need more.

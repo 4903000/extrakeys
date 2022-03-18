@@ -1,0 +1,4 @@
+This plugin adds some missing keyboard shortcuts.
+
+So far:
+- Increase and decrease painting flow

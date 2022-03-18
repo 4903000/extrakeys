@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=extrakeys
+X-Python-2-Compatible=false
+X-Krita-Manual=extrakeys.txt
+Name=extrakeys
+Comment=Some missing keyboard shortcuts

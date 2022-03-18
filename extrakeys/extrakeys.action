@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionCollection version="2" name="Scripts">
+    <Actions category="Scripts">
+        <text>Extrakeys</text>
+
+        <Action name="increase_flow">
+        <icon></icon>
+        <text>Increase painting flow</text>
+        <whatsThis></whatsThis>
+        <toolTip></toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>none</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+
+	<Action name="decrease_flow">
+        <icon></icon>
+        <text>Decrease painting flow</text>
+        <whatsThis></whatsThis>
+        <toolTip></toolTip>
+        <iconText></iconText>
+        <activationFlags>10000</activationFlags>
+        <activationConditions>0</activationConditions>
+        <shortcut>none</shortcut>
+        <isCheckable>false</isCheckable>
+        <statusTip></statusTip>
+        </Action>
+    </Actions>
+</ActionCollection>
